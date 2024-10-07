@@ -43,7 +43,17 @@ This project is a comprehensive **School Management System** designed to efficie
 
 ## Installation and Setup
 
-### Clone the Repository:
+# Clone the Repository:
 ```bash
 git clone https://github.com/yourusername/school-management-system.git
 cd school-management-system
+
+# Set up the Database:
+1. Import the provided SQL script to set up the required tables.
+2. Run the Application:
+3. Launch the Java application through your IDE or command line.
+
+# Future Improvements
+1. Implement detailed reporting for attendance and performance.
+2. Add role-based access control for different types of users (admin, teacher, student).
+3. Implement a notification system for upcoming fee payments, salary disbursements, etc
